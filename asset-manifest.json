@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cc4e47f.css",
+    "main.js": "/static/js/main.6bb60877.js",
+    "static/js/453.9ea88b26.chunk.js": "/static/js/453.9ea88b26.chunk.js",
+    "static/media/SSD.jpg": "/static/media/SSD.f8cd9d2355b9e666e9e5.jpg",
+    "static/media/ram.jpg": "/static/media/ram.b904797ea64fd3506cef.jpg",
+    "static/media/printer.jpg": "/static/media/printer.26031697d7e97db5581d.jpg",
+    "static/media/Flash.jpg": "/static/media/Flash.3c1678512046604c9159.jpg",
+    "static/media/Optical.webp": "/static/media/Optical.a44e135a7ef9375d43b0.webp",
+    "static/media/motherboard.jpg": "/static/media/motherboard.7f2e8528f62e4e4d4117.jpg",
+    "static/media/mouse.jpg": "/static/media/mouse.9f8190f7e6472e3fb140.jpg",
+    "static/media/HDD.jpg": "/static/media/HDD.430efe1c0af0305b79dd.jpg",
+    "static/media/keyboard.webp": "/static/media/keyboard.a7c3af32bebc98e7a8d1.webp",
+    "static/media/Screen.jpg": "/static/media/Screen.87031b7d686a87e3b8b4.jpg",
+    "index.html": "/index.html",
+    "main.4cc4e47f.css.map": "/static/css/main.4cc4e47f.css.map",
+    "main.6bb60877.js.map": "/static/js/main.6bb60877.js.map",
+    "453.9ea88b26.chunk.js.map": "/static/js/453.9ea88b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cc4e47f.css",
+    "static/js/main.6bb60877.js"
+  ]
+}
